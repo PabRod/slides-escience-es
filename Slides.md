@@ -33,11 +33,12 @@ bg: https://github.com/PabRod/autodiff-slides/blob/main/_meta/_img/escience.png?
 
 ### Centro neerlandés de computación científica
 
+---
+
 ![](https://github.com/pabrod/slides-prado/blob/main/img/puzzle1.png?raw=true)
 
 --
 
-### Centro neerlandés de computación científica
 
 ![](https://github.com/pabrod/slides-prado/blob/main/img/puzzle2.png?raw=true)
 
@@ -47,7 +48,6 @@ bg: https://github.com/PabRod/autodiff-slides/blob/main/_meta/_img/escience.png?
 
 --
 
-### Centro neerlandés de computación científica
 
 + Ingeniería y ciencias físicas
 + Ciencias biosanitarias
