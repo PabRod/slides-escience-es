@@ -7,12 +7,6 @@ bg: https://github.com/PabRod/autodiff-slides/blob/main/_meta/_img/escience.png?
 <!-- slide bg="https://github.com/PabRod/autodiff-slides/blob/main/_meta/_img/escience-cover.png?raw=true" -->
 
 ---
-## Antes de comenzar
-<img src="https://github.com/pabrod/obsidian-slides/blob/main/img/qr.png?raw=true" width="300">
-
-[pabrod.github.io/today](https://pabrod.github.io/today.html)
-
----
 
 ## ¿Quiénes somos?
 
@@ -52,3 +46,10 @@ bg: https://github.com/PabRod/autodiff-slides/blob/main/_meta/_img/escience.png?
 + Ingeniería y ciencias físicas
 + Ciencias biosanitarias
 + Ciencias sociales y humanas
+
+---
+
+## Contacto y materiales
+<img src="https://github.com/pabrod/obsidian-slides/blob/main/img/qr.png?raw=true" width="300">
+
+[pabrod.github.io/today](https://pabrod.github.io/today.html)
